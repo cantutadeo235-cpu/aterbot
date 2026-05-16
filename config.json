@@ -1,8 +1,8 @@
 {
 	"client": {
-		"host": "BodrioIsland-r9WI.aternos.me",
-		"port": "58445",
-		"username": "JefreyEpstein"
+		"host": BodrioIsland-r9WI.aternos.me
+		"port": 58445
+		"username": JefreyEpstein
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
